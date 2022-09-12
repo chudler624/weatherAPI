@@ -1,0 +1,17 @@
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\apiWeatherMap.exe
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\apiWeatherMap.deps.json
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\apiWeatherMap.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\apiWeatherMap.dll
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\apiWeatherMap.pdb
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.csproj.CopyComplete
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.dll
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\refint\apiWeatherMap.dll
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.pdb
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\apiWeatherMap.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\apiWeatherMap\apiWeatherMap\apiWeatherMap\obj\Debug\net6.0\ref\apiWeatherMap.dll
